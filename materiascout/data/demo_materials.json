@@ -1,0 +1,105 @@
+[
+  {
+    "material_id": "dm-1",
+    "formula_pretty": "NaCl",
+    "elements": ["Na", "Cl"],
+    "band_gap": 5.0,
+    "density": 2.16,
+    "formation_energy_per_atom": -3.0,
+    "crystal_system": "Cubic",
+    "volume": 44.9
+  },
+  {
+    "material_id": "dm-2",
+    "formula_pretty": "Fe2O3",
+    "elements": ["Fe", "O"],
+    "band_gap": 2.2,
+    "density": 5.24,
+    "formation_energy_per_atom": -2.5,
+    "crystal_system": "Rhombohedral",
+    "nelements": 2,
+    "nsites": 5
+  },
+  {
+    "material_id": "dm-3",
+    "formula_pretty": "SiO2",
+    "elements": ["Si", "O"],
+    "band_gap": 9.0,
+    "density": 2.65,
+    "formation_energy_per_atom": -4.0,
+    "crystal_system": "Hexagonal",
+    "nelements": 2,
+    "volume": 37.4
+  },
+  {
+    "material_id": "dm-4",
+    "formula_pretty": "SiC",
+    "elements": ["Si", "C"],
+    "band_gap": 3.0,
+    "density": 3.21,
+    "formation_energy_per_atom": -0.7,
+    "crystal_system": "Hexagonal",
+    "nelements": 2
+  },
+  {
+    "material_id": "dm-5",
+    "formula_pretty": "GaAs",
+    "elements": ["Ga", "As"],
+    "band_gap": 1.42,
+    "density": 5.32,
+    "formation_energy_per_atom": -0.3,
+    "crystal_system": "Cubic",
+    "volume": 45.2
+  },
+  {
+    "material_id": "dm-6",
+    "formula_pretty": "TiO2",
+    "elements": ["Ti", "O"],
+    "band_gap": 3.2,
+    "density": 4.23,
+    "formation_energy_per_atom": -3.5,
+    "crystal_system": "Tetragonal",
+    "nelements": 2
+  },
+  {
+    "material_id": "dm-7",
+    "formula_pretty": "LiFePO4",
+    "elements": ["Li", "Fe", "P", "O"],
+    "band_gap": 3.8,
+    "density": 3.6,
+    "formation_energy_per_atom": -2.0,
+    "crystal_system": "Orthorhombic",
+    "nelements": 4,
+    "nsites": 7
+  },
+  {
+    "material_id": "dm-8",
+    "formula_pretty": "Al2O3",
+    "elements": ["Al", "O"],
+    "band_gap": 8.8,
+    "density": 3.95,
+    "formation_energy_per_atom": -5.0,
+    "crystal_system": "Rhombohedral",
+    "volume": 42.6
+  },
+  {
+    "material_id": "dm-9",
+    "formula_pretty": "C",
+    "elements": ["C"],
+    "band_gap": 5.5,
+    "density": 3.51,
+    "formation_energy_per_atom": 0.0,
+    "crystal_system": "Cubic",
+    "formula_alphabetical": "C"
+  },
+  {
+    "material_id": "dm-10",
+    "formula_pretty": "FeSi",
+    "elements": ["Fe", "Si"],
+    "band_gap": 0.05,
+    "density": 6.15,
+    "formation_energy_per_atom": -0.5,
+    "crystal_system": "Cubic",
+    "nelements": 2
+  }
+]
