@@ -1,0 +1,7 @@
+gradio
+pymatgen
+mp-api
+fastapi
+uvicorn
+requests 
+pandas 
