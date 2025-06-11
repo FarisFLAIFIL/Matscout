@@ -10,7 +10,7 @@ You can find more information about the hackathon [here](https://huggingface.co/
 
 Instead of writing complex API queries, users can simply ask questions like:
 
-> "Find me materials made of Iron and Oxygen with a high band gap"
+> "Find me materials made of Iron and Oxygen"
 
 The agent parses this query, interacts with the Materials Project API, and returns the results in a clean, easy-to-read table.
 
